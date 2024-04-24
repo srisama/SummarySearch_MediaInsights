@@ -1,0 +1,98 @@
+/* _content/QueryCast/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-6csi6ijdg9] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-6csi6ijdg9] {
+  color: #0077cc;
+}
+
+.btn-primary[b-6csi6ijdg9] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-6csi6ijdg9], .nav-pills .show > .nav-link[b-6csi6ijdg9] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-6csi6ijdg9] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-6csi6ijdg9] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-6csi6ijdg9] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-6csi6ijdg9] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-6csi6ijdg9] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/QueryCast/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-w86tgqtd0v] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-w86tgqtd0v] {
+  color: #0077cc;
+}
+
+.btn-primary[b-w86tgqtd0v] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-w86tgqtd0v], .nav-pills .show > .nav-link[b-w86tgqtd0v] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-w86tgqtd0v] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-w86tgqtd0v] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-w86tgqtd0v] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-w86tgqtd0v] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-w86tgqtd0v] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

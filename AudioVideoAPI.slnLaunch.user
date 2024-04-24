@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "AudioVideoAPI\\AudioVideoAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "QueryCast\\QueryCast.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

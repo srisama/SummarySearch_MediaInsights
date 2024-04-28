@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BHnhKyUtidVUdQMUfE+yavBallVxuz6enOY4y/lR9WrCcjBSygDQvq8KHG6kuG79gjJx0b6e2utr/EI5MGTxWQ==",
+  "dgSpecHash": "8ZHGIaKJuRGEIDlhydRN7XAyrfjkZ38Okz2xmB+nPl5bDoh6VYJkYrkTy/BDMDgw8Wm8gvMKuKOb7UuReIE1DA==",
   "success": true,
-  "projectFilePath": "H:\\IndianaUniversity-Data Science\\DSCI-D592-DSIP\\CapstoneProject\\VectorEmbeddings\\AudioVideoAPI\\QueryCast\\QueryCast.csproj",
+  "projectFilePath": "H:\\IndianaUniversity-Data Science\\DSCI-D592-DSIP\\CapstoneProject\\VectorEmbeddings\\SummarySearch_MediaInsights\\QueryCast\\QueryCast.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sama2\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\sama2\\.nuget\\packages\\google.api.commonprotos\\2.15.0\\google.api.commonprotos.2.15.0.nupkg.sha512",

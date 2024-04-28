@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueryCast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c201e088a33ba5bbfc08d3b201803621503d49")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueryCast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueryCast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
